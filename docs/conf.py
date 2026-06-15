@@ -92,7 +92,7 @@ templates_path = ["shared/_templates"]
 html_last_updated_fmt = "%b %d, %Y"
 
 
-html_baseurl = f"https://docs.tenstorrent.com/{project}"
+html_baseurl = "https://firdovsimammedovk.github.io/tt-blacksmith-sandbox"
 
 html_context = {"logo_link_url": "https://firdovsimammedovk.github.io/tenstorrent-sandbox/"}
 
