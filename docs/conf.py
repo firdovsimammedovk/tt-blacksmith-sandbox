@@ -106,6 +106,11 @@ _version_urls = [
 ]
 
 html_theme = "sphinx_rtd_theme"
+html_theme_options = {
+    "collapse_navigation": True,
+    "titles_only": True,
+    "navigation_depth": 2,
+}
 html_logo = "shared/images/tt_logo.svg"
 html_favicon = "shared/images/favicon.png"
 html_static_path = ["shared/_static"]
